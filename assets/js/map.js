@@ -7,6 +7,8 @@ $(function() {
     "UA": visited
   };
 
+  $('#count').text(Object.keys(data).length);
+
   $('#vmap').vectorMap({
     map: 'world_mill',
     backgroundColor: '#0f2744',
