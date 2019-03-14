@@ -4,7 +4,8 @@ $(function() {
 
   var data = {
     "GB": home,
-    "UA": visited
+    "UA": visited,
+    "TH": visited
   };
 
   $('#count').text(Object.keys(data).length);
