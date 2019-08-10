@@ -6,7 +6,8 @@ $(function() {
     "GB": home,
     "UA": visited,
     "TH": visited,
-    "MY": visited
+    "MY": visited,
+    "BN": visited
   };
 
   $('#count').text(Object.keys(data).length);
