@@ -7,7 +7,8 @@ $(function() {
     "UA": visited,
     "TH": visited,
     "MY": visited,
-    "BN": visited
+    "BN": visited,
+    "ID": visited
   };
 
   $('#count').text(Object.keys(data).length);
