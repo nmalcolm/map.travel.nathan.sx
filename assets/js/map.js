@@ -8,7 +8,8 @@ $(function() {
     "TH": visited,
     "MY": visited,
     "BN": visited,
-    "ID": visited
+    "ID": visited,
+    "KR": visited
   };
 
   $('#count').text(Object.keys(data).length);
