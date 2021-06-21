@@ -11,7 +11,8 @@ $(function() {
     "ID": visited,
     "KR": visited,
     "TW": visited,
-    "PH": visited
+    "PH": visited,
+    "GE": visited
   };
 
   $('#count').text(Object.keys(data).length);
