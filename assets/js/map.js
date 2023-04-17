@@ -13,7 +13,8 @@ $(function() {
     "TW": visited,
     "PH": visited,
     "GE": visited,
-    "PK": visited
+    "PK": visited,
+    "LA": visited
   };
 
   $('#count').text(Object.keys(data).length);
