@@ -17,7 +17,8 @@ $(function() {
     "LA": visited,
     "VN": visited,
     "KH": visited,
-    "UZ": visited
+    "UZ": visited,
+    "KZ": visited
   };
 
   $('#count').text(Object.keys(data).length);
